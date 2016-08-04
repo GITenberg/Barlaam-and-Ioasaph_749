@@ -1,0 +1,40 @@
+_repo: Barlaam-and-Ioasaph_749
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Mattingly, Harold
+    birthdate: 1884
+    deathdate: 1964
+    gutenberg_agent_id: '42163'
+    url: http://www.gutenberg.org/2009/agents/42163
+  - agent_name: Woodward, George Ratcliffe
+    alias: Woodward, G. R. (George Ratcliffe)
+    birthdate: 1848
+    deathdate: 1934
+    gutenberg_agent_id: '32351'
+    url: http://www.gutenberg.org/2009/agents/32351
+creator:
+  author:
+    agent_name: John of Damascus, Saint
+    birthdate: 675
+    deathdate: 749
+    gutenberg_agent_id: '385'
+    url: http://www.gutenberg.org/2009/agents/385
+    wikipedia: http://en.wikipedia.org/wiki/John_of_Damascus
+description: ''
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princes -- India -- Romances'
+- !lcsh 'Christian saints -- India -- Romances'
+- !lcsh 'Gautama Buddha -- Legends -- Adaptations'
+- !lcc 'PQ'
+- GITenberg
+title: Barlaam and Ioasaph
+url: http://www.gutenberg.org/ebooks/749
